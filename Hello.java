@@ -5,5 +5,7 @@ public class Hello
 	public void test(){
 
 	}
+
 	private String tall;
+	private String high;
 }
